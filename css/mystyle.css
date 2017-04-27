@@ -1,0 +1,19 @@
+.btn {
+    background-color:#FFFFCC;
+    border-color: gray;
+    color: gray;
+    opacity: 0.5;
+}
+
+.btn:mouseover {
+    background-color:#FFFFCC;
+    border-color: gray;
+    color: gray;
+    opacity: 1;
+}
+
+.letter p, .aboutpic p {
+    font-size: 0.5em;
+}
+
+
